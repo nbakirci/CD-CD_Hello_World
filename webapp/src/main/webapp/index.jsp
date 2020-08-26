@@ -3,3 +3,5 @@
 <h2> Glad to see you here </h2>
 <br /><br />
 <h2>Redeploy After After Changes</h2>
+<br /><br />
+<h3>Redeploy after changes through ansible->docker->jenkiks->ec2</h3>
