@@ -7,3 +7,5 @@
 <h3>Automatic redeploy with docker and ansible</h3>
 <br /><br />
 <h3>Deploying on a contianer using ansible playook with <strong>Kubernetes</strong></h3>
+<br /><br />
+<h3>Last test with Git-Jenkins-Ansible-DockerHub-Kubernetes</h3>
